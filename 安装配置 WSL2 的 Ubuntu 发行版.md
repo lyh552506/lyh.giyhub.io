@@ -6,7 +6,7 @@ ps：由于一开始看题感觉挺懵，我试着在b站上搜索了相关方�
 
 并搜到了这一个Microsoft官网的文档：[旧版 WSL |的手动安装步骤微软文档 (microsoft.com)](https://docs.microsoft.com/en-us/windows/wsl/install-manual)
 
-![2022-09-06 (13)](C:/Users/%E7%BD%97%E9%92%B0%E6%B5%A9/OneDrive/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7/2022-09-06%20(13).png)
+![](https://s1.ax1x.com/2022/09/07/vHY92V.png)
 
 并通过powershell以管理员身份运行输入代码
 
@@ -18,7 +18,7 @@ ps：由于一开始看题感觉挺懵，我试着在b站上搜索了相关方�
 
 并重启windows
 
-![2022-09-06 (15)](C:/Users/%E7%BD%97%E9%92%B0%E6%B5%A9/OneDrive/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7/2022-09-06%20(15).png)
+![](https://s1.ax1x.com/2022/09/07/vHYkb4.png)
 
 ## 2.启动Intel virtualization technology
 
@@ -30,11 +30,9 @@ ps：由于一开始看题感觉挺懵，我试着在b站上搜索了相关方�
 
 点开Microsoft自带的应用商城，搜索Ubuntu并下载
 
-![2022-09-06 (16)](C:/Users/%E7%BD%97%E9%92%B0%E6%B5%A9/OneDrive/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7/2022-09-06%20(16).png)
+![](https://s1.ax1x.com/2022/09/07/vHYZ5R.png)
 
 进行一系列注册后完成
 
-
-
-![2022-09-06 (17)](C:/Users/%E7%BD%97%E9%92%B0%E6%B5%A9/OneDrive/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7/2022-09-06%20(17).png)
+![](https://s1.ax1x.com/2022/09/07/vHYn8x.png)
 
